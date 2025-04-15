@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App2CalculoSalario</string>
+    <string name="calcular">Calcular</string>
+    <string name="_50">50%</string>
+    <string name="_45">45%</string>
+    <string name="_40">40%</string>
+    <string name="percentual">Qual é o percentual?</string>
+    <string name="exemplo">10000.00</string>
+    <string name="salariotitulo">Digite seu salário (em R$):</string>
+    <string name="titulo">Simular aumento de salário</string>
+</resources>
